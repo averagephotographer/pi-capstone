@@ -1,0 +1,3268 @@
+Discovery started
+hci0 type 7 discovering on
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -85 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 4B:06:D1:AD:A9:D7 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -91 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4D:04:FC:39:40:25 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -68 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 78:57:FF:94:92:E2 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 3C:22:FB:A2:F9:51 type LE Public rssi -82 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: EB:BB:47:DC:34:8A type LE Random rssi -55 flags 0x0004 
+AD flags 0x04 
+eir_len 31
+hci0 dev_found: 52:71:69:29:F4:6D type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -46 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 3E:EC:31:0B:3E:2A type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -73 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:18:99:D2:B0:60 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 78:E8:02:3C:B3:DD type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -43 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 68:CA:30:40:1A:AF type LE Random rssi -101 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 41:DF:1A:D9:E4:EC type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 7C:B4:41:EC:11:00 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -73 flags 0x0000 
+AD flags 0x1a 
+eir_len 26
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 7A:6D:67:19:28:DE type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 46:FD:23:B1:33:78 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 28:F0:79:AC:F9:14 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 12:A5:D2:2A:EC:15 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: D8:E9:AA:81:B4:E5 type LE Random rssi -98 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -85 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 1C:8B:2D:6F:14:A6 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 71:44:8F:12:A0:CD type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -95 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 06:E8:46:D9:1C:66 type LE Random rssi -75 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 45:4C:E0:90:E0:63 type LE Random rssi -98 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: CB:C2:B5:0D:06:0A type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -68 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 41:2A:37:3A:2D:38 type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 3C:22:FB:A2:F9:51 type LE Public rssi -81 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 5D:1D:41:E6:4E:58 type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:24:08:A8:12:84 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 1C:92:65:C4:9B:0A type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -71 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -69 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 28:FA:6F:DE:18:7F type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: CE:92:52:BD:CB:48 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 42:6B:6B:FF:75:84 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -58 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -76 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:74:A6:10:25:38 type LE Random rssi -90 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -66 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 52:17:72:75:D7:12 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 79:31:76:C5:BC:5D type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:61:A6:9C:38:1D type LE Random rssi -96 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -46 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -49 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 26
+hci0 dev_found: 43:D4:AA:BF:7D:D6 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 73:01:AC:51:FB:5A type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -81 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 03:C4:CA:1F:F1:C2 type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 5C:DA:CF:08:56:43 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -56 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: 2A:24:C6:6B:A0:2D type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4B:06:D1:AD:A9:D7 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6B:19:E2:B5:3B:8F type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7C:B4:41:EC:11:00 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4E:23:EB:F8:60:B4 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -67 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 79:84:89:F6:F9:BA type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -64 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:99:B3:CE:13:C8 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -95 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:8C:73:8C:83:6B type LE Random rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 5A:47:64:08:4F:D0 type LE Random rssi -81 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -85 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 08:65:0E:7B:25:E8 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 51:4F:02:AD:AF:C9 type LE Random rssi -88 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 1E:0C:1B:77:6A:07 type LE Random rssi -88 flags 0x0000 
+AD flags 0x06 
+eir_len 27
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -72 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 09:78:37:D8:F8:D4 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -44 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 12:A5:D2:2A:EC:15 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -65 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: A4:34:F1:96:B3:01 type LE Public rssi -95 flags 0x0000 
+AD flags 0x05 
+eir_len 30
+hci0 dev_found: 73:05:54:5C:4D:4D type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: D4:44:B8:23:CB:75 type LE Random rssi -60 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -73 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 4D:F2:DD:27:C2:83 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 78:24:08:A8:12:84 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 26
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 38:F3:2E:EB:76:33 type LE Public rssi -95 flags 0x0000 
+AD flags 0x00 
+eir_len 16
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -53 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -69 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 52:17:72:75:D7:12 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 28:F0:79:AC:F9:14 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: F1:A1:EB:ED:16:D0 type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -46 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 3E:EC:31:0B:3E:2A type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: EB:BB:47:DC:34:8A type LE Random rssi -53 flags 0x0004 
+AD flags 0x04 
+eir_len 31
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -74 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 57:64:C6:3D:3F:9E type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -46 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -96 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -64 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:2D:55:E6:9C:17 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 78:8C:73:8C:83:6B type LE Random rssi -88 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 73:01:AC:51:FB:5A type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 03:C4:CA:1F:F1:C2 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 51:4F:02:AD:AF:C9 type LE Random rssi -88 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 66:7A:9D:3B:C2:FA type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6B:19:E2:B5:3B:8F type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -69 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:96:5E:88:94:2A type LE Random rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -72 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 78:25:24:2D:3C:5C type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 71:D7:C5:50:3A:8F type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: EC:F6:73:C8:17:E5 type LE Random rssi -66 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -79 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 6E:DF:B8:4A:EE:F2 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: CD:56:07:CF:A2:18 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: F8:5C:47:9B:C8:A5 type LE Random rssi -69 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 09:78:37:D8:F8:D4 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: C6:7C:EB:D6:44:9C type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 26
+hci0 dev_found: 52:AE:AC:A5:C0:6B type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -83 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 08:28:7D:64:91:5D type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 41:2A:37:3A:2D:38 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: EA:7F:D0:59:80:7B type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -75 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -69 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 5D:62:AF:51:69:51 type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7E:55:E5:3F:A6:FB type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5A:47:64:08:4F:D0 type LE Random rssi -81 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -83 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 17:74:A6:10:25:38 type LE Random rssi -87 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -52 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -70 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 64:07:F6:5B:D6:83 type LE Public rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 65:95:C8:BC:83:62 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: F6:56:5F:88:1F:82 type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -64 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 62:97:E9:3B:31:82 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: C0:4F:94:9F:A2:D8 type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 7C:62:DF:9F:CA:EA type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -68 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 74:06:B0:46:BD:4D type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -67 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:18:99:D2:B0:60 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 5C:DA:CF:08:56:43 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -64 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3E:79:F9:3B:FB:A0 type LE Random rssi -99 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -81 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 6B:19:E2:B5:3B:8F type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5B:A1:08:08:5F:39 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -94 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 48:B4:D8:6D:77:A3 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 69:C9:F4:D9:EA:C7 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 3C:22:FB:A2:F9:51 type LE Public rssi -80 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -73 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 98:9E:63:43:C5:B3 type LE Public rssi -99 flags 0x0000 
+AD flags 0x1a 
+eir_len 24
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -63 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 48:C6:CE:AB:92:DF type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 12:A5:D2:2A:EC:15 type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 13:F6:51:BC:37:08 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 1E:0C:1B:77:6A:07 type LE Random rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 27
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -44 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 69:2F:15:E0:5B:06 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -79 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 08:28:7D:64:91:5D type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -97 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -80 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 75:0C:B9:95:5F:86 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 5D:62:AF:51:69:51 type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7A:91:D4:BE:67:AB type LE Random rssi -96 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 43:D4:AA:BF:7D:D6 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 45:87:8B:5C:5D:D0 type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 16:E3:B6:F8:56:41 type LE Random rssi -92 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 78:57:FF:94:92:E2 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -52 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 4D:04:FC:39:40:25 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 62:97:E9:3B:31:82 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 0A:C4:09:12:F6:43 type LE Random rssi -93 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 67:EA:9D:70:24:42 type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 73:01:AC:51:FB:5A type LE Random rssi -73 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5C:DA:CF:08:56:43 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 5A:D1:44:80:44:09 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -68 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -63 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -50 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -82 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 5B:A1:08:08:5F:39 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 48:B4:D8:6D:77:A3 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 7C:62:DF:9F:CA:EA type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 79:84:89:F6:F9:BA type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -73 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 6E:DF:B8:4A:EE:F2 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 48:C6:CE:AB:92:DF type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:96:5E:88:94:2A type LE Random rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: E7:49:CD:BA:57:E5 type LE Random rssi -95 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -94 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 38:12:B0:22:E3:51 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 12:A5:D2:2A:EC:15 type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4B:06:D1:AD:A9:D7 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:A2:F9:51 type LE Public rssi -83 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 5D:62:AF:51:69:51 type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 74:B4:94:B9:82:64 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -79 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -69 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 42:6B:6B:FF:75:84 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -52 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -44 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 51:4F:02:AD:AF:C9 type LE Random rssi -90 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 65:95:C8:BC:83:62 type LE Random rssi -98 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 4E:B4:B0:66:A1:23 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 69:2F:15:E0:5B:06 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 78:57:FF:94:92:E2 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -50 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -53 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 79:31:76:C5:BC:5D type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 73:01:AC:51:FB:5A type LE Random rssi -72 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5C:DA:CF:08:56:43 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:18:99:D2:B0:60 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 78:E8:02:3C:B3:DD type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 41:DF:1A:D9:E4:EC type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -89 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -91 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -67 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 45:4C:E0:90:E0:63 type LE Random rssi -93 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4D:04:FC:39:40:25 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:61:99:FF:2D:C7 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 71:44:8F:12:A0:CD type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -78 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: C0:EA:01:4E:1E:9A type LE Random rssi -49 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -85 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 42:7D:F7:B1:99:B7 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -38 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -72 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: C3:EA:27:B5:9F:14 type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 52:AE:AC:A5:C0:6B type LE Random rssi -97 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 6A:DE:F0:6A:7C:59 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:6D:83:6A:86:72 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -65 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 75:0C:B9:95:5F:86 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5D:62:AF:51:69:51 type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -53 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -73 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 06:E8:46:D9:1C:66 type LE Random rssi -73 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -53 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: EC:06:79:F1:55:92 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: F1:A1:EB:ED:16:D0 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: D4:CE:DE:F8:5D:CC type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 57:64:C6:3D:3F:9E type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -70 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 78:8C:73:8C:83:6B type LE Random rssi -91 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 03:C4:CA:1F:F1:C2 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 41:DF:1A:D9:E4:EC type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -72 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 5A:56:07:03:33:50 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -68 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: DA:59:74:F1:32:08 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:49:A1:A1:62:70 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 79:84:89:F6:F9:BA type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5D:1D:41:E6:4E:58 type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:61:A6:9C:38:1D type LE Random rssi -100 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 53:22:23:14:A8:FE type LE Random rssi -98 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 6E:DF:B8:4A:EE:F2 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 7C:62:DF:9F:CA:EA type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -56 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: 12:A5:D2:2A:EC:15 type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -86 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: F5:3F:19:38:72:6F type LE Random rssi -94 flags 0x0000 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 1C:8B:2D:6F:14:A6 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 52:AE:AC:A5:C0:6B type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 1B:E4:26:2F:63:9B type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 41:2A:37:3A:2D:38 type LE Random rssi -69 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 58:86:A8:98:95:92 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -84 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 75:0C:B9:95:5F:86 type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -93 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 53:04:75:1A:AE:E2 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 1C:92:65:C4:9B:0A type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -70 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 4D:04:FC:39:40:25 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4F:FD:4E:CA:AB:60 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -49 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 42:6B:6B:FF:75:84 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 52:71:69:29:F4:6D type LE Random rssi -95 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -37 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 3E:EC:31:0B:3E:2A type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -49 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: FF:D4:1B:91:B5:D6 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 67:EA:9D:70:24:42 type LE Random rssi -78 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -86 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 50:2D:55:E6:9C:17 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 2A:24:C6:6B:A0:2D type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 66:7A:9D:3B:C2:FA type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 43:D4:AA:BF:7D:D6 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7A:91:D4:BE:67:AB type LE Random rssi -95 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -84 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: F7:24:4B:C9:D3:15 type LE Random rssi -100 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -65 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:A2:F9:51 type LE Public rssi -84 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -71 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -83 flags 0x0004 
+AD flags 0x00 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -73 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 78:8C:73:8C:83:6B type LE Random rssi -86 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 78:96:5E:88:94:2A type LE Random rssi -91 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -69 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -67 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 13:F6:51:BC:37:08 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -42 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 69:2F:15:E0:5B:06 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 52:AE:AC:A5:C0:6B type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 38:12:B0:22:E3:51 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: D4:44:B8:23:CB:75 type LE Random rssi -59 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1C:92:65:C4:9B:0A type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 61:FF:F0:A1:66:CB type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 64:07:F6:5B:D6:83 type LE Public rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 73:05:54:5C:4D:4D type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -51 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -62 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:99:B3:CE:13:C8 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 08:65:0E:7B:25:E8 type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -49 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 68:FC:AD:C7:7A:62 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -85 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -73 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -97 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 2F:4F:19:CF:18:60 type LE Random rssi -93 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: CA:31:27:E8:CA:7B type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 4A:18:99:D2:B0:60 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 31:F3:25:21:A8:BA type LE Random rssi -95 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -67 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6B:19:E2:B5:3B:8F type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -37 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 50:49:A1:A1:62:70 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 78:25:24:2D:3C:5C type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 48:B4:D8:6D:77:A3 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: C9:49:B7:44:C4:23 type LE Random rssi -101 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -87 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 79:84:89:F6:F9:BA type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 48:C6:CE:AB:92:DF type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 57:61:99:FF:2D:C7 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -93 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -79 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 42:7D:F7:B1:99:B7 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -78 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 43:D4:AA:BF:7D:D6 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -70 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 78:24:08:A8:12:84 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 61:6D:83:6A:86:72 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 41:2A:37:3A:2D:38 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 38:12:B0:22:E3:51 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -72 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -92 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -95 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -51 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 62:04:3C:8B:73:A5 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -62 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 17:74:A6:10:25:38 type LE Random rssi -86 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 52:17:72:75:D7:12 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -81 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 5A:47:64:08:4F:D0 type LE Random rssi -86 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 06:E8:46:D9:1C:66 type LE Random rssi -74 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -69 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 5E:B0:AD:28:8C:BE type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -51 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 65:95:C8:BC:83:62 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: C6:2E:A2:55:44:22 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 51:4F:02:AD:AF:C9 type LE Random rssi -86 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 78:57:FF:94:92:E2 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 28:62:56:D2:F4:5F type LE Random rssi -91 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 5D:1D:41:E6:4E:58 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 74:45:3A:20:94:73 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 5C:DA:CF:08:56:43 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 74:06:B0:46:BD:4D type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:5B:D6:83 type LE Public rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 5D:69:62:92:E9:33 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 41:DF:1A:D9:E4:EC type LE Random rssi -72 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -87 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -73 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:63:97:A0:58:3B type LE Random rssi -97 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 77:28:B9:92:BE:7B type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 5A:47:64:08:4F:D0 type LE Random rssi -82 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 41:2A:37:3A:2D:38 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 53:04:75:1A:AE:E2 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 38:12:B0:22:E3:51 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -51 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5B:2F:11:58:0E:0D type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 42:6B:6B:FF:75:84 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 3E:EC:31:0B:3E:2A type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 68:FC:AD:C7:7A:62 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 67:EA:9D:70:24:42 type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -71 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -81 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -43 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -55 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -75 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: C0:4F:94:9F:A2:D8 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 48:C6:CE:AB:92:DF type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 71:44:8F:12:A0:CD type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 79:84:89:F6:F9:BA type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7A:6D:67:19:28:DE type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -73 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 09:78:37:D8:F8:D4 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 28:F0:79:AC:F9:14 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 73:05:54:5C:4D:4D type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5D:62:AF:51:69:51 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:6D:83:6A:86:72 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4F:74:75:60:E4:52 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 53:04:75:1A:AE:E2 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -92 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 0A:C4:09:12:F6:43 type LE Random rssi -85 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -68 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 42:6B:6B:FF:75:84 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -84 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -51 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -48 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: D4:25:68:52:83:CA type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 2E:A7:EC:2A:CC:A0 type LE Random rssi -86 flags 0x0004 
+AD flags 0x1a 
+eir_len 15
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -69 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 51:4F:02:AD:AF:C9 type LE Random rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -80 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 69:2F:15:E0:5B:06 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 74:06:B0:46:BD:4D type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7C:62:DF:9F:CA:EA type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: F2:8C:23:88:92:F0 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 4A:18:99:D2:B0:60 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 6B:19:E2:B5:3B:8F type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 46:FD:23:B1:33:78 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 68:CA:30:40:1A:AF type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 43:D4:AA:BF:7D:D6 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 08:65:0E:7B:25:E8 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -70 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -70 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6B:4B:49:26:CC:3A type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 2F:4F:19:CF:18:60 type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:8C:73:8C:83:6B type LE Random rssi -85 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -65 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -67 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -89 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 5A:47:64:08:4F:D0 type LE Random rssi -82 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 78:96:5E:88:94:2A type LE Random rssi -88 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 64:07:F6:5B:D6:83 type LE Public rssi -75 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -72 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 08:28:7D:64:91:5D type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 1E:0C:1B:77:6A:07 type LE Random rssi -88 flags 0x0000 
+AD flags 0x06 
+eir_len 27
+hci0 dev_found: D4:44:B8:23:CB:75 type LE Random rssi -59 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 75:0C:B9:95:5F:86 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 1C:92:65:C4:9B:0A type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 50:2D:55:E6:9C:17 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -67 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 52:17:72:75:D7:12 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7E:55:E5:3F:A6:FB type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -51 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 41:04:B4:5D:18:C3 type LE Random rssi -96 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 43:D4:AA:BF:7D:D6 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 62:97:E9:3B:31:82 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 58:71:29:B2:1F:27 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 74:45:3A:20:94:73 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -67 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 08:65:0E:7B:25:E8 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 73:01:AC:51:FB:5A type LE Random rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -64 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 6B:19:E2:B5:3B:8F type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 78:99:B3:CE:13:C8 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 68:CA:30:40:1A:AF type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -70 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 75:BB:FF:8C:74:9F type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 77:28:B9:92:BE:7B type LE Random rssi -97 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7C:62:DF:9F:CA:EA type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6B:4B:49:26:CC:3A type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -57 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:96:5E:88:94:2A type LE Random rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: CB:D0:B6:46:64:D1 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -92 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 08:28:7D:64:91:5D type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 50:2D:55:E6:9C:17 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -77 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: C0:EA:01:4E:1E:9A type LE Random rssi -46 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -68 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 0A:C4:09:12:F6:43 type LE Random rssi -92 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 61:FF:F0:A1:66:CB type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: C2:2C:0B:B7:DF:5B type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 28:F0:79:AC:F9:14 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -87 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 3E:EC:31:0B:3E:2A type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -82 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1C:8B:2D:6F:14:A6 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:57:FF:94:92:E2 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -44 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 51:4F:02:AD:AF:C9 type LE Random rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 79:31:76:C5:BC:5D type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:64:C6:3D:3F:9E type LE Random rssi -98 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5D:1D:41:E6:4E:58 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 2A:24:C6:6B:A0:2D type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 69:C9:F4:D9:EA:C7 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -51 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: D3:55:75:9B:CB:79 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -57 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -85 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 5D:62:AF:51:69:51 type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -74 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: F1:2D:72:95:D4:F9 type LE Random rssi -68 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: D4:44:B8:23:CB:75 type LE Random rssi -63 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 38:12:B0:22:E3:51 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 06:E8:46:D9:1C:66 type LE Random rssi -73 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 61:FF:F0:A1:66:CB type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 0A:C4:09:12:F6:43 type LE Random rssi -85 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 3E:EC:31:0B:3E:2A type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7E:55:E5:3F:A6:FB type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -47 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -91 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: FA:F8:7C:D3:E4:5F type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 65:95:C8:BC:83:62 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 42:7D:F7:B1:99:B7 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 78:57:FF:94:92:E2 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: F5:4E:F5:3E:A7:DA type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 67:EA:9D:70:24:42 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: EB:BB:47:DC:34:8A type LE Random rssi -54 flags 0x0004 
+AD flags 0x04 
+eir_len 31
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5A:D1:44:80:44:09 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -100 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 64:A0:33:2C:A4:1F type LE Random rssi -67 flags 0x0000 
+AD flags 0x1a 
+name Jabra Elite 85h
+hci0 dev_found: 2F:4F:19:CF:18:60 type LE Random rssi -93 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -85 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 4B:06:D1:AD:A9:D7 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -78 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: C0:2D:D7:D8:FA:1E type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 4C:22:EF:5D:6D:9C type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -72 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -45 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 2E:A7:EC:2A:CC:A0 type LE Random rssi -84 flags 0x0004 
+AD flags 0x1a 
+eir_len 15
+hci0 dev_found: 48:B4:D8:6D:77:A3 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 12:A5:D2:2A:EC:15 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:61:99:FF:2D:C7 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -63 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6B:4B:49:26:CC:3A type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -83 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 4D:F2:DD:27:C2:83 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 68:FC:AD:C7:7A:62 type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 08:28:7D:64:91:5D type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 52:AE:AC:A5:C0:6B type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 61:FA:BF:4E:C2:B5 type LE Random rssi -73 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 1C:92:65:C4:9B:0A type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 47:45:D5:DC:72:79 type LE Random rssi -97 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -70 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -70 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -69 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -79 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 7E:55:E5:3F:A6:FB type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -67 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -46 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 45:87:8B:5C:5D:D0 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -50 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4D:04:FC:39:40:25 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: EA:7B:E5:88:83:85 type LE Random rssi -98 flags 0x0000 
+AD flags 0x06 
+name ID205L
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 67:EA:9D:70:24:42 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 38:2A:02:18:EC:B8 type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 73:01:AC:51:FB:5A type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7C:B4:41:EC:11:00 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 6E:DF:B8:4A:EE:F2 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:8C:3D:86:08:C3 type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 68:FC:AD:C7:7A:62 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 46:FD:23:B1:33:78 type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 48:B4:D8:6D:77:A3 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -72 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: D6:46:BA:25:CD:77 type LE Random rssi -73 flags 0x0004 
+AD flags 0x06 
+eir_len 30
+hci0 dev_found: 53:E6:DF:90:0F:21 type LE Random rssi -100 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 57:61:99:FF:2D:C7 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 5D:1D:41:E6:4E:58 type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -93 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 08:65:0E:7B:25:E8 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -48 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: 09:78:37:D8:F8:D4 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:8C:73:8C:83:6B type LE Random rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -83 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -69 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 4F:74:75:60:E4:52 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -83 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -37 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -67 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 07:D3:EF:12:6D:DD type LE Random rssi -94 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 41:2A:37:3A:2D:38 type LE Random rssi -70 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 06:E8:46:D9:1C:66 type LE Random rssi -79 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 28:F0:79:AC:F9:14 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 31:F3:25:21:A8:BA type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 0A:C4:09:12:F6:43 type LE Random rssi -85 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:FF:F0:A1:66:CB type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -46 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6B:D0:93:56:F7:3B type LE Random rssi -47 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 78:96:5E:88:94:2A type LE Random rssi -91 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 42:6B:6B:FF:75:84 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 4E:B4:B0:66:A1:23 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -92 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -79 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 28:FA:6F:DE:18:7F type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 46:FD:23:B1:33:78 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 67:EA:9D:70:24:42 type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -80 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -100 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 40:EC:B6:D0:A7:86 type LE Random rssi -94 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 4D:78:12:3B:07:01 type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 4B:06:D1:AD:A9:D7 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -60 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 70:E3:68:7C:18:D1 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: C6:2E:A2:55:44:22 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -79 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -83 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -100 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -78 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4D:04:FC:39:40:25 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -42 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 34:10:07:74:32:07 type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 2E:A7:EC:2A:CC:A0 type LE Random rssi -84 flags 0x0004 
+AD flags 0x1a 
+eir_len 15
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -71 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -76 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 1E:0C:1B:77:6A:07 type LE Random rssi -86 flags 0x0000 
+AD flags 0x06 
+eir_len 27
+hci0 dev_found: 7A:91:D4:BE:67:AB type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -63 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:5B:D6:83 type LE Public rssi -72 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 4D:F2:DD:27:C2:83 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 53:DE:97:D1:30:D4 type LE Random rssi -69 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 68:FC:AD:C7:7A:62 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1C:92:65:C4:9B:0A type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 65:CE:88:D7:AC:AA type LE Random rssi -73 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 74:B4:94:B9:82:64 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -68 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 17:74:A6:10:25:38 type LE Random rssi -89 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 5E:B0:AD:28:8C:BE type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 61:FF:F0:A1:66:CB type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 41:7E:11:F4:19:8F type LE Random rssi -46 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 62:A1:B1:C8:84:C8 type LE Random rssi -73 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 42:6B:6B:FF:75:84 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4E:B4:B0:66:A1:23 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 28:F0:79:AC:F9:14 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6A:B2:BC:C5:C8:51 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 16:02:A8:B1:41:B1 type LE Random rssi -85 flags 0x0000 
+AD flags 0x06 
+eir_len 10
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -44 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 5A:D1:44:80:44:09 type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: D7:47:BB:26:CE:78 type LE Random rssi -50 flags 0x0004 
+AD flags 0x04 
+eir_len 30
+hci0 dev_found: 74:06:B0:46:BD:4D type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -66 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 41:DF:1A:D9:E4:EC type LE Random rssi -77 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 66:7A:9D:3B:C2:FA type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -84 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -81 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -80 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:B8:94:EE:0A:0C type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 2A:24:C6:6B:A0:2D type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 3E:79:F9:3B:FB:A0 type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7C:B4:41:EC:11:00 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 71:44:8F:12:A0:CD type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: C7:57:A9:E9:D0:A5 type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 45:B7:E4:69:03:12 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: C6:7C:EB:D6:44:9C type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 5D:1D:41:E6:4E:58 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 46:FD:23:B1:33:78 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 59:16:5B:C2:0C:0D type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 57:61:99:FF:2D:C7 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1B:E4:26:2F:63:9B type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 5F:DF:3F:C3:82:59 type LE Random rssi -66 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 28:FA:6F:DE:18:7F type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -83 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 72:17:1F:9A:31:7A type LE Random rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: FF:57:7F:74:B2:B1 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 29:4C:E0:7C:E6:00 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 62:04:3C:8B:73:A5 type LE Random rssi -96 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 16:02:A8:B1:41:B1 type LE Random rssi -90 flags 0x0000 
+AD flags 0x06 
+eir_len 10
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 51:4F:02:AD:AF:C9 type LE Random rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 4D:04:FC:39:40:25 type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -49 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 08:28:7D:64:91:5D type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -70 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 64:07:F6:5B:D6:83 type LE Public rssi -72 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 06:E8:46:D9:1C:66 type LE Random rssi -68 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 2E:A7:EC:2A:CC:A0 type LE Random rssi -84 flags 0x0004 
+AD flags 0x1a 
+eir_len 15
+hci0 dev_found: 17:74:A6:10:25:38 type LE Random rssi -86 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -90 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -86 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 12:A5:D2:2A:EC:15 type LE Random rssi -93 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -82 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 48:D8:0F:DA:8F:7B type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 4F:74:75:60:E4:52 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 41:04:B4:5D:18:C3 type LE Random rssi -95 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 31:EF:CC:9B:1F:47 type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5A:D1:44:80:44:09 type LE Random rssi -97 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 46:FD:23:B1:33:78 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 5D:1D:41:E6:4E:58 type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 69:CF:08:81:D1:E0 type LE Random rssi -64 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: C7:4A:48:19:06:93 type LE Random rssi -72 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: D4:25:68:52:83:CA type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 0C:F3:CA:FD:BF:4A type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: C1:F2:ED:E0:C3:C0 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -88 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 2A:24:C6:6B:A0:2D type LE Random rssi -84 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 76:D9:C8:B8:AB:E2 type LE Random rssi -84 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 7C:B4:41:EC:11:00 type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 48:C6:CE:AB:92:DF type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 16:02:A8:B1:41:B1 type LE Random rssi -86 flags 0x0000 
+AD flags 0x06 
+eir_len 10
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -45 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 61:6D:83:6A:86:72 type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 52:91:5A:4A:9F:7E type LE Random rssi -66 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 7E:44:0D:43:E2:66 type LE Random rssi -86 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 1B:E4:26:2F:63:9B type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -78 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 74:5D:F1:F4:4C:3B type LE Random rssi -81 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 27:42:79:A5:0E:DE type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -91 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 2F:4F:19:CF:18:60 type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 73:05:54:5C:4D:4D type LE Random rssi -85 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 1B:FE:31:D4:F7:3F type LE Random rssi -53 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 41:2A:37:3A:2D:38 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -83 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 4C:22:EF:5D:6D:9C type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 3E:EC:31:0B:3E:2A type LE Random rssi -90 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -76 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:74:A6:10:25:38 type LE Random rssi -89 flags 0x0004 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 45:87:8B:5C:5D:D0 type LE Random rssi -84 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 06:D6:35:DA:FC:B4 type LE Random rssi -75 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -90 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 4B:06:D1:AD:A9:D7 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 08:65:0E:7B:25:E8 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: F2:8A:06:4B:6C:F2 type LE Random rssi -94 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 4E:B4:B0:66:A1:23 type LE Random rssi -94 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 61:98:25:91:04:75 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -77 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 19:8C:85:C3:A3:41 type LE Random rssi -70 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 58:71:29:B2:1F:27 type LE Random rssi -88 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 64:07:F6:8F:62:37 type LE Public rssi -86 flags 0x0004 
+AD flags 0x00 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 4F:FD:4E:CA:AB:60 type LE Random rssi -98 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 74:06:B0:46:BD:4D type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 67:EA:9D:70:24:42 type LE Random rssi -76 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 41:DF:1A:D9:E4:EC type LE Random rssi -75 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 24:52:93:51:10:1E type LE Random rssi -92 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 16:02:A8:B1:41:B1 type LE Random rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 10
+hci0 dev_found: 66:7A:9D:3B:C2:FA type LE Random rssi -95 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -95 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 45:C8:B0:EA:DD:51 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 69:2F:15:E0:5B:06 type LE Random rssi -97 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 7B:06:F3:27:4D:2D type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 39:25:C4:8E:AF:BA type LE Random rssi -79 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:96:5E:88:94:2A type LE Random rssi -87 flags 0x0000 
+AD flags 0x06 
+eir_len 23
+hci0 dev_found: 2A:24:C6:6B:A0:2D type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 7A:5F:B7:8E:09:15 type LE Random rssi -74 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 3C:22:FB:BB:98:11 type LE Public rssi -94 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 13:08:36:7F:98:E9 type LE Random rssi -82 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:25:24:2D:3C:5C type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -92 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: 6C:47:60:A6:CB:56 type LE Public rssi -84 flags 0x0000 
+AD flags 0x18 
+name JBL Charge 4
+hci0 dev_found: 0E:DB:60:56:14:38 type LE Random rssi -87 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 2C:B5:08:4C:1E:D7 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 48:B4:D8:6D:77:A3 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 01:33:70:E9:4B:99 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 42:B4:A2:4D:EC:12 type LE Random rssi -89 flags 0x0004 
+AD flags 0x00 
+eir_len 0
+hci0 dev_found: 5D:62:AF:51:69:51 type LE Random rssi -82 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 50:84:F9:C7:91:A8 type LE Random rssi -95 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 09:78:37:D8:F8:D4 type LE Random rssi -86 flags 0x0004 
+AD flags 0x00 
+eir_len 28
+hci0 dev_found: 3C:22:FB:A2:F9:51 type LE Public rssi -79 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 15:3D:50:58:BC:DF type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 78:8C:73:8C:83:6B type LE Random rssi -84 flags 0x0000 
+AD flags 0x06 
+eir_len 14
+hci0 dev_found: 49:40:57:9F:BE:51 type LE Random rssi -87 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: 64:07:F6:90:94:F1 type LE Public rssi -79 flags 0x0000 
+AD flags 0x1a 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: 4A:5D:5D:8F:AB:60 type LE Random rssi -71 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 58:AC:43:38:C5:66 type LE Random rssi -46 flags 0x0000 
+AD flags 0x06 
+eir_len 15
+hci0 dev_found: 17:94:96:56:DA:A2 type LE Random rssi -73 flags 0x0004 
+AD flags 0x00 
+eir_len 31
+hci0 dev_found: 64:07:F6:5B:CD:3B type LE Public rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 31
+hci0 dev_found: 47:45:D5:DC:72:79 type LE Random rssi -93 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5F:23:E5:AF:AE:04 type LE Random rssi -65 flags 0x0000 
+AD flags 0x06 
+eir_len 31
+hci0 dev_found: 60:EA:C4:68:C1:E8 type LE Random rssi -85 flags 0x0000 
+AD flags 0x1a 
+eir_len 30
+hci0 dev_found: CB:D0:B6:46:64:D1 type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: D8:80:A3:93:F1:03 type LE Random rssi -83 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 67:6E:24:4A:D5:8B type LE Random rssi -96 flags 0x0000 
+AD flags 0x1a 
+eir_len 18
+hci0 dev_found: 1E:0C:1B:77:6A:07 type LE Random rssi -89 flags 0x0000 
+AD flags 0x06 
+eir_len 27
+hci0 dev_found: 7C:62:DF:9F:CA:EA type LE Random rssi -91 flags 0x0000 
+AD flags 0x1a 
+eir_len 17
+hci0 dev_found: 5C:DA:CF:08:56:43 type LE Random rssi -89 flags 0x0000 
+AD flags 0x1a 
+eir_len 19
+hci0 dev_found: F1:00:C8:7D:31:D3 type LE Random rssi -97 flags 0x0004 
+AD flags 0x00 
+eir_len 8
+hci0 dev_found: 98:5F:D3:E7:54:19 type BR/EDR rssi -79 flags 0x0000 
+name DESKTOP-AAA18ED
+hci0 dev_found: 64:07:F6:90:94:F1 type BR/EDR rssi -73 flags 0x0000 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: E0:D4:64:90:F6:FE type BR/EDR rssi -71 flags 0x0001 
+eir_len 5
+confirm_name succeeded for E0:D4:64:90:F6:FE
+hci0 dev_found: A8:2B:B9:B0:2D:DF type BR/EDR rssi -42 flags 0x0000 
+name C's S10
+hci0 dev_found: E0:D4:64:90:F6:FE type BR/EDR rssi -59 flags 0x0000 
+name SUGARBLAST
+hci0 dev_found: 64:07:F6:5B:D6:83 type BR/EDR rssi -76 flags 0x0000 
+name [TV] Samsung BET Series (43)
+hci0 dev_found: F4:96:34:24:D1:40 type BR/EDR rssi -78 flags 0x0000 
+name DANKUSH
+hci0 dev_found: 18:47:3D:E5:33:B8 type BR/EDR rssi -80 flags 0x0000 
+name LAPTOP-0H8TU0LC
+hci0 dev_found: F8:FF:C2:0D:D5:A9 type BR/EDR rssi -42 flags 0x0000 
+name Christian’s MacBook Pro
+hci0 type 7 discovering off
